@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1120px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list_item {
+    display: flex;
+    gap: 26px;
+}
+
+.list_1 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #D3B599;
+}
+
+.list_2 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #115E67;
+}
+
+.list_3 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #9D2B2E;
+}
+
+.list_4 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FD6B28;
+}
+
+.list_5 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #D3B599;
+}
+
+.list_6 {
+    font-family: Weestep;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #9D2B2E;
+}
+
+.girl_img {
+    width: 750px;
+    margin: auto;
+}
+
+.girl {
+    position: absolute;
+}
+
+.bigger {
+    position: relative;
+    font-family: Weestep;
+    font-size: 200px;
+    font-weight: 700;
+    line-height: 240px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    color: #FD6B28;
+    padding-top: 300px;
+}
